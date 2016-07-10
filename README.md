@@ -1,0 +1,2 @@
+# ChemBondPy
+ChemBondPy is a Python-based group of functions for generating and determining bonds in a wide variety of chemical compounds.  Currently, it contains a function that determines bond length based on interatomic distance for organic, inorganic, metalorganic compounds, sandwich complexes, and biological compounds, which have been verified to 99% accuracy with 30,000 compounds in the NIST Webbook.  Future plans include a GUI, descriptor/QSAR generator, import/export to/from Gaussian and MOL files, distance matrix conversion, etc.
